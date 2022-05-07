@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -g -Wall -Werror
-OBJS = quiz2.o test1.o
+OBJS = quiz2.o test.o
 
 all: quiz2
 

@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdint.h>
-#include "test1.h"
+#include "test.h"
 
 uint32_t average1(uint32_t a, uint32_t b)
 {
